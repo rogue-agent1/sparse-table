@@ -1,5 +1,11 @@
 # sparse-table
-Sparse table for O(1) range minimum queries. Zero dependencies.
+
+O(1) range minimum/maximum queries.""".
+
+Zero dependencies. Python 3.8+.
+
+## Usage
+
 ```bash
-python3 sparse_table.py
+python3 sparse_table.py --help
 ```
